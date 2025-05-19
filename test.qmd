@@ -3,3 +3,7 @@ title: "test"
 format: html
 ---
 
+```{r}
+2+2
+```
+
